@@ -1,4 +1,8 @@
 # tuto_react-1
+npx create-react-app my-app
+cd my-app
+npm start
+
 262. Introduction à React JS <br>
 263. Les Composants React JS<br>
 264. React via CDN, JSX, ES6 et Babel<br>
